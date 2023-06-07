@@ -1,0 +1,6 @@
+mongodb+srv://lpv001:venh1234@cluster0.vecrizw.mongodb.net/?retryWrites=true&w=majority
+
+
+salf = $2a$10$B2o1NNfOuuKYgt8pDDJVfu
+
+token = 4c9fec8211c8e98a7435453af544de4e07c44b372a6a34f5e3ddcc80b68dd1ada333791cc763a6927d654185906ffd2a3f24d7e5a58ecc5678087303cb475fb7
